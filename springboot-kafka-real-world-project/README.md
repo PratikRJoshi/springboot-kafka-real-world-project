@@ -54,3 +54,4 @@ Once running, the producer will start sending live data from Wikimedia to Kafka,
 - **Spring Data JPA**
 - **Maven** for dependency management
 - **Java 17**
+
