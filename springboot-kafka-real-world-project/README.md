@@ -45,3 +45,12 @@ To run this project, you will need:
 4.  **Run Consumer**: Start the `SpringBootConsumerApplication` in the `kafka-consumer-database` module.
 
 Once running, the producer will start sending live data from Wikimedia to Kafka, and the consumer will begin storing it in your database.
+
+## Technologies Used
+
+- **Spring Boot 2.6.7**
+- **Apache Kafka** with Spring Kafka
+- **MySQL** database
+- **Spring Data JPA**
+- **Maven** for dependency management
+- **Java 17**
